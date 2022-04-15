@@ -87,3 +87,13 @@ Build a Movie App using ReactJS.
 - You can add additional functionalities to your app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
+
+
+REACT_APP_apiKey=
+REACT_APP_authDomain=
+REACT_APP_projectId=
+REACT_APP_storageBucket=
+REACT_APP_messagingSenderId=
+REACT_APP_appId=
+REACT_APP_TMDB_KEY=
+
